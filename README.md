@@ -8,7 +8,7 @@
 
 ---
 
-## 📖 Deskripsi Repository
+## Deskripsi Repository
 
 Halo! Saya **Martza Zhugo Suryandra**, mahasiswa Informatika Universitas Indonesia (UNSIA) yang sedang menempuh perjalanan belajar **Data Science**. Saya memiliki latar belakang sebagai System Administrator, dan saya percaya bahwa kemampuan mengolah data adalah kunci untuk membangun sistem yang lebih cerdas, efisien, dan dapat diandalkan. Repository ini merupakan dokumentasi perjalanan saya dalam menguasai fondasi Data Science - mulai dari pengenalan Python, eksplorasi dan visualisasi data, persiapan data, hingga pemodelan Machine Learning.
 
@@ -16,7 +16,7 @@ Di dalam repository ini saat ini terdapat **7 notebook Jupyter** yang mencakup m
 
 ---
 
-## 📌 Daftar Pertemuan
+## Daftar Pertemuan
 
 | Pertemuan | Topik | Notebook |
 |:---------:|:------|:---------|
@@ -28,11 +28,11 @@ Di dalam repository ini saat ini terdapat **7 notebook Jupyter** yang mencakup m
 | **6** | Persiapan Data (Preprocessing) — Encoding, Scaling, Train-Test Split | [`Pertemuan6_MartzaZhugoSuryandra_250401020020.ipynb`](Pertemuan6_MartzaZhugoSuryandra_250401020020.ipynb) |
 | **7** | Pengantar Machine Learning — Simple & Multiple Linear Regression | [`Pertemuan7_MartzaZhugoSuryandra_250401020020.ipynb`](Pertemuan7_MartzaZhugoSuryandra_250401020020.ipynb) |
 
-> 💡 **Catatan:** Seluruh notebook dapat langsung dibuka dan dijalankan di Google Colab dengan mengklik link di atas (jika sudah di-upload ke GitHub), atau dijalankan secara lokal dengan mengikuti petunjuk di bawah.
+> **Catatan:** Seluruh notebook dapat langsung dibuka dan dijalankan di Google Colab dengan mengklik link di atas (jika sudah di-upload ke GitHub), atau dijalankan secara lokal dengan mengikuti petunjuk di bawah.
 
 ---
 
-## 🛠️ Tools & Library yang Digunakan
+## Tools & Library yang Digunakan
 
 | Tools / Library | Kegunaan |
 |:----------------|:---------|
